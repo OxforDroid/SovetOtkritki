@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Советские открытки</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_act1mai">1 мая</string>
+    <string name="title_activity_act1sent">1 сентября</string>
+    <string name="title_activity_act_dr">С днем рождения</string>
+    <string name="title_activity_act_ng">С новым годом</string>
+    <string name="title_activity_act8mart">С 8 марта</string>
+    <string name="title_activity_act23f">С 23 февраля</string>
+    <string name="title_activity_act9mai">С 9 мая</string>
+    <string name="title_activity_razrab">О приложении</string>
+    <string name="tv_razrab">
+        Приложение, в котором собраны советские\n
+        поздравительные открытки.\n
+        Просто выберите интересующую тему,\n
+        найдите и отправьте понравившуюся картинку.\n
+        Все Ваши пожелания и замечания\n
+        можете отправить нам на почту.\n
+        Разработчик - "Androidicus"\n
+        Информация взята из\n
+        открытых источников.\n
+
+    </string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_1mai"
+            android:icon="@drawable/ic_menu_send"
+            android:title="1 мая"/>
+        <item
+            android:id="@+id/nav_1sent"
+            android:icon="@drawable/ic_menu_send"
+            android:title="1 сентября"/>
+        <item
+            android:id="@+id/nav_dr"
+            android:icon="@drawable/ic_menu_send"
+            android:title="С днем рождения!"/>
+        <item
+            android:id="@+id/nav_ng"
+            android:icon="@drawable/ic_menu_send"
+            android:title="С новым годом!"/>
+        <item
+            android:id="@+id/nav_8mart"
+            android:icon="@drawable/ic_menu_send"
+            android:title="С 8 марта!"/>
+        <item
+            android:id="@+id/nav_23fev"
+            android:icon="@drawable/ic_menu_send"
+            android:title="С 23 февраля!"/>
+        <item
+            android:id="@+id/nav_9mai"
+            android:icon="@drawable/ic_menu_send"
+            android:title="С 9 мая!"/>
+    </group>
+
+    <item android:title="Информация">
+        <menu>
+            <item
+                android:id="@+id/info"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="О приложении"/>
+
+
+        </menu>
+    </item>
+
+</menu>
